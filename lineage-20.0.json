@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1680562824,
-      "filename": "lineage-20.0-20230403-UNOFFICIAL-franklin.zip",
-      "id": "c080c5835b297250f0b3034b75cf3ca23484d943dee3a74bb5676d5c90fe3a74",
+      "datetime": "",
+      "filename": "",
+      "id": "",
       "romtype": "UNOFFICIAL",
-      "size": 530334316,
-      "url": "https://github.com/artefvck/artefvck/releases/download/1.0/lineage-20.0-20230403-UNOFFICIAL-franklin.zip",
+      "size": ",
+      "url": "",
       "version": "20.0"
     }
   ]

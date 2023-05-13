@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "",
-      "filename": "",
-      "id": "",
-      "romtype": "UNOFFICIAL",
-      "size": "",
-      "url": "",
-      "version": "19.1"
-    }
-  ]
+    "response": [
+        {
+            "datetime": "1683997199",
+            "filename": "lineage-19.1-20230513-UNOFFICIAL-hg680fj.zip",
+            "id": "13078d449d444d5a8db870b04199ddd36217fa07d588ab5dcdf19281508c418a",
+            "romtype": "UNOFFICIAL",
+            "size": "727874471",
+            "url": "https://github.com/artefvck/artefvck/releases/download/1.0-hg680fj/lineage-19.1-20230513-UNOFFICIAL-hg680fj.zip",
+            "version": "19.1"
+        }
+    ]
 }
