@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "",
-      "filename": "",
-      "id": "",
-      "romtype": "UNOFFICIAL",
-      "size": "",
-      "url": "",
-      "version": "19.1"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1685811599,
+            "filename": "lineage-19.1-20230603-UNOFFICIAL-b860hv5.zip",
+            "id": "1f957f8ba353763cdcb9ef8dd25bcff8d3a5c6f74f2a4205d3201a2ff64fa087",
+            "romtype": "UNOFFICIAL",
+            "size": 731031461,
+            "url": "https://github.com/artefvck/artefvck/releases/download/1.0-b860hv5/lineage-19.1-20230603-UNOFFICIAL-b860hv5.zip",
+            "version": "19.1"
+        }
+    ]
 }
