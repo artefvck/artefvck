@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1683997199",
-            "filename": "lineage-19.1-20230513-UNOFFICIAL-hg680fj.zip",
-            "id": "13078d449d444d5a8db870b04199ddd36217fa07d588ab5dcdf19281508c418a",
+            "datetime": 1685811599,
+            "filename": "lineage-19.1-20230603-UNOFFICIAL-hg680fj.zip",
+            "id": "9a7b1186d565f94146b55f5b68b92acc1889facedde7b5dc8b2d28101a2a4241",
             "romtype": "UNOFFICIAL",
-            "size": "727874471",
-            "url": "https://github.com/artefvck/artefvck/releases/download/1.0-hg680fj/lineage-19.1-20230513-UNOFFICIAL-hg680fj.zip",
+            "size": 728776912,
+            "url": "https://github.com/artefvck/artefvck/releases/download/1.1-hg680fj/lineage-19.1-20230603-UNOFFICIAL-hg680fj.zip",
             "version": "19.1"
         }
     ]
