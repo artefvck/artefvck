@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "",
-      "filename": "",
-      "id": "",
-      "romtype": "UNOFFICIAL",
-      "size": "",
-      "url": "",
-      "version": "19.1"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1685811599,
+            "filename": "lineage-19.1-20230603-UNOFFICIAL-sei500tr.zip",
+            "id": "26d5464a53309378c3a26c0e8e625c0d23d9a530139404f72e4318e85399ab6d",
+            "romtype": "UNOFFICIAL",
+            "size": 726900391,
+            "url": "https://github.com/artefvck/artefvck/releases/download/1.0-sei500tr/lineage-19.1-20230603-UNOFFICIAL-sei500tr.zip",
+            "version": "19.1"
+        }
+    ]
 }
