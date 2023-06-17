@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "",
-      "filename": "",
-      "id": "",
-      "romtype": "UNOFFICIAL",
-      "size": "",
-      "url": "",
-      "version": "20.0"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1687021199,
+            "filename": "lineage-20.0-20230617-UNOFFICIAL-sei500tr.zip",
+            "id": "2460ee7c523cedcecbe7f0fa38beed8af22a3df3e581d155ad1ce701548caf48",
+            "romtype": "UNOFFICIAL",
+            "size": 739363640,
+            "url": "https://github.com/artefvck/artefvck/releases/download/2.0-sei500tr/lineage-20.0-20230617-UNOFFICIAL-sei500tr.zip",
+            "version": "20.0"
+        }
+    ]
 }
